@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**tayzinha0/tayzinha0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Taynara Ferreira
+- Estou estudando na [alura](https://www.alura.com.br)
+- Utilizo esse espaço para o compartilhamento e organização dos meus projetos
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Voce pode entrar em contato comigo 📫
+
+00001113943051sp@al.educacao.sp.gov.com.br
+
+![](https://media1.tenor.com/m/BrSW_82G4xkAAAAC/pa-ti-bb.gif)
+https://media1.tenor.com/m/BrSW_82G4xkAAAAC/pa-ti-bb.gif
+
